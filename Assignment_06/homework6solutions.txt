@@ -1,0 +1,20 @@
+Address: mywYzBcgBWfdRWwkwycWBLJUQ7zs8QSbTX
+3. 
+It first initializes a WalletAppKit. Then creates a locking script to lock transactions, creates Transaction txA with locking script  on its output and send it to blockchain. It then create a new Transaction txB using txA’s outputs, create unlocking script and do the unlocking. If there’s any error occurs, then there might be something wrong within the locking or unlocking scripts. The main propose of the ScriptTester.run() is to test the locking and unlocking scripts in PayToPubKey class.
+
+TxHash=c64f522cd8d4335b5de6dbc28d6cc4bf3edb3925492db9f2e7b7ff56631936d8
+TxHash=5f6d647bcc6439e79c3f733325095f28e52c83e84a0aae9db7c02bc1b9c36db1
+
+
+4.
+TxHash=7349ecebeecaf345f60240182e36c0fd9a1e7bfb3be69870e831f59642eda625 TxHash=48f99a31b61a668db963df26acbc063dd64c7573e80de1a72c86540b042a4218
+
+5.
+TxHash=7ee3e807caa5ede2113810e711105ad09c3459410d4f46e4b25ff7df86c2dca8
+TxHash=0b4b62103027bdcaae03b93fd7f750e16c6d3abfc0a5f2ae7800e594b5911afe
+
+6. 
+TxHash=fd22ba8e421f24826663ba33e7cc4d97529c67ae21dfb0d4ed8e632523c85d8b TxHash=b2b7782a22fa382c60e1545cabbc72e3e87a6bfd9111f2833502395aa51eb88e
+
+7.
+TxHash=ae9288dce44d021f83efe539b710dc60952e1b99f09b5f32ca78e61644c1f43f
