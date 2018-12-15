@@ -1,0 +1,17 @@
+4. The current receive address: 
+   mpezCRUsU1esd8zkPKRn8xPCMNG1E5gtix
+
+5. -Transaction ID
+    d86cc85c758a63d52b0618b4ef5e82ce60496baff5787fced189358f6ceeab5c
+
+   -Amount of coins
+    0.00660000
+
+   -how many outputs does the transaction have? 
+    2 outputs
+
+   -What is the purpose of the output that locks coins to the address that¡¯s not yours?
+    Avoid them to be double-spent.
+
+8. Custom bitcoin address
+   1HEXXouUQpZ52Ti9Spb8Z4zPX8EB7KEtd1

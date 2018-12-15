@@ -1,0 +1,5 @@
+90.00/100
+
+5.b.
+
+The other output returns the rest of the input amount back to the faucet.﻿﻿﻿
