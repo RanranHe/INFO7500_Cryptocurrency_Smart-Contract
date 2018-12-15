@@ -1,0 +1,16 @@
+40.00/100
+
+1. 25 - 10 = 15
+
+correct answer: c
+
+2. 0
+
+This hash function cannot be used for this purpose because it has easy-to-find collisions.
+
+3. 25
+
+4. ﻿﻿﻿﻿﻿0
+
+Answer: Puzzle B will take longer to solve. The only way to solve these puzzle is to keep trying different values of x until a value in Y is found. Thus, the time it takes to solve these puzzles depends on the size of Y and Puzzle A has a larger Y than puzzle B. The length of id does not affect the number of attempts needed to hit a target in Y.
+
