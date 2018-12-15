@@ -1,0 +1,5 @@
+80.00/100
+
+You are right about the ownership manipulation.
+
+You also need to point out that after the owner is set to the attacker's address, the attacker can ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿call destroy() to get all the Ether refund to that address.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
